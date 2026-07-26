@@ -1,0 +1,17 @@
+**PWORKSTATIONID**:  
+**INSERTDATE**:  
+**PERIOD**:  
+**STOCKID**:  
+**PID**:  
+**CYCLE**:  
+**QTY**:  
+**PEQUIPMENTID**:  
+**EMPLOYEEID**:  
+**SHIFT**:  
+**PSOPCAUSEID**:  
+**STOPSTARTTIME**:  
+**STOPDURATION**:  
+**PERRORSID**:  
+**PEQUIPMENTCOE**:  
+**PLANNEDSTOP**:  
+**REASONEQID**:  
