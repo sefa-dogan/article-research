@@ -46,7 +46,7 @@ Tanımsız duruşa sistem sadece kendisi geçer. Tanısmsız bir duruş müşter
 Aslında çokote başlangıç anında bir tanımsız duruştur. Eğer duruş çokote limit süresinin altında bir sürede tamamlanıp tekrar makine çalışıyor geçtiyse o zaman bu tanımsız duruş sonradan çokote olarak güncellenir. Çokote olup olmadığı başlangıçta belli değildir. Dolaysıı ile çokote limitinin üzerinde sürerse bu tanımsız duurş olarak var olmaya devam eder. Tanımlı duruş çokoteye dönüşmez sadece tanımsız duruş çokoteye dönüşür
 
 
-**•	REASONEQPID Sorusu?**  
+**•	1, 2, 3, 4, 5 ve 6 id'li istasyonlar olsun.  Eğer istasyonlardan bir tanesi duruşa geçerse diğerleri de duruşa geçer mi?**  
 Evet duruşa geçer.   
 Örneğin 1,2,3,4,5,6 istasyonlarını barındıran bir hat olsun. 3. İstasyonda bir sorun oluştuğunda, bu istasyondan beslenecek veya bu istasyonu besleyen en yakın istasyon hangisi ise ben 3. İstasyondan dolayı duruşa geçtim der. Örneğin ilk duruşa geçen 4. İstasyon olsun ve besleme alamayacağı için duruşa geçsin. Duruşa geçen 4. İstasyondan besleme alamayan 5. İstasyon da duruşa geçer ve sinyali 4. İstasyondan alır. 4. İstasyondaki duruş bilgisi yani REASONEQPID bilgisi 3. İstasyona ait olduğundan 5. İstasyon da bu bilgiyi yani 3. İstasyondan dolayı durduğu bilgisini kaydeder.
 
