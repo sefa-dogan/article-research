@@ -1,0 +1,5 @@
+**1- Adaptive continual learning for cycle time prediction in wafer fabrication with time-varying product types**  
+Makalede yarı iletken üretim sektöründe uygulanan wafer üretiminde, çevrim süresi tahmini yapılırken farklı koşullara adapte olamayan ve bundan dolayı doğruluğu düşen modeli iyileştirmek için çalışma yapılmıştır. Çip fabrikalarında zamanla üretilen ürün modelleri/tipleri değişir. Tahmin yapmak için kullanılan yapay zeka/istatistik modelleri eski verilere göre eğitildiği için, bu ürün değişikliklerine adapte olamaz ("kavram kayması" yaşanır)
+
+**2-Explainability driven post-hoc correction enhancing deep neural network performance for job cycle time prediction**  
+İmalat sektöründe çevrim süresi tahmini için kullanılan derin öğrenme modelleri eğitiminde kullanılan veri setleri sınırlıdır. Bu sebeple modelin genelleme yeteneklerinin yetersiz kalması sorunu ortaya çıkmaktadır. Bu makale, sınırlı verinin olduğu durumda modelin zayıf genelleme ve aşırı öğrenme sorununu gidermeyi amaçlamaktadır. Bu sorun SHAP kullanılarak çözülmüştür.

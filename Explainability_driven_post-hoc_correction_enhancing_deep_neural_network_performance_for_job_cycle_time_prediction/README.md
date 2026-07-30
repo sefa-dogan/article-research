@@ -2,9 +2,9 @@
 
 ## Makalenin Temel Sorusu, Hipotezi, Önemi, Kilit Bulguları, Literatüre Katkısı, Uygulamaları ve Açık Sorular
 ### Temel Soru ve Çözülmeye Çalışılan Problem
-Derin Öğrenme Modellerinin Genelleme Sorunu: Makale, imalat sektöründe iş döngüsü süresi tahmini için kullanılan derin öğrenme (DL) modellerinin, gerçek dünya fabrikalarında sıkça karşılaşılan sınırlı veri setleriyle çalışırken genelleme yeteneklerinin yetersiz kalması sorununu ele almaktadır. Bu durum, modellerin yeni veya farklı senaryolara uyum sağlamakta zorlanmasına ve dolayısıyla tahmin doğruluğunun düşmesine neden olmaktadır.
+**Derin Öğrenme Modellerinin Genelleme Sorunu:** Makale, imalat sektöründe iş döngüsü süresi tahmini için kullanılan derin öğrenme (DL) modellerinin, gerçek dünya fabrikalarında sıkça karşılaşılan sınırlı veri setleriyle çalışırken genelleme yeteneklerinin yetersiz kalması sorununu ele almaktadır. Bu durum, modellerin yeni veya farklı senaryolara uyum sağlamakta zorlanmasına ve dolayısıyla tahmin doğruluğunun düşmesine neden olmaktadır.
 
-Veri Kıtlığına Bağlı Zayıf Genelleme ve Aşırı Uyum: Çalışma, derin öğrenme modellerinin karmaşık, veri sınırlı ortamlarda (örneğin, yarı iletken fabrikaları gibi) karşılaştığı zayıf genelleme ve aşırı uyum (overfitting) sorunlarını gidermeyi amaçlamaktadır.
+**Veri Kıtlığına Bağlı Zayıf Genelleme ve Aşırı Uyum:** Çalışma, derin öğrenme modellerinin karmaşık, veri sınırlı ortamlarda (örneğin, yarı iletken fabrikaları gibi) karşılaştığı zayıf genelleme ve aşırı uyum (overfitting) sorunlarını gidermeyi amaçlamaktadır.
 ### Ana Hipotez veya Tez
 **SHAP Destekli Sonradan Düzeltme Çerçevesi:** Makalenin temel iddiası, SHAP açıklanabilirliğini kullanan bir sonradan düzeltme çerçevesinin, sınırlı veri setleriyle bile derin öğrenme modellerinin iş döngüsü süresi tahminlerindeki doğruluğunu önemli ölçüde artırabileceğidir. 
 Bu çerçeve, yanlış tahmin yapma olasılığı yüksek olan yeni işleri hedefleyerek ve bu işlerin kritik giriş özelliklerini SHAP içgörüleriyle ayarlayarak çalışır
