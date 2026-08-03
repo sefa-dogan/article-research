@@ -3,3 +3,6 @@ Makalede yarı iletken üretim sektöründe uygulanan wafer üretiminde, çevrim
 
 **2-Explainability driven post-hoc correction enhancing deep neural network performance for job cycle time prediction**  
 İmalat sektöründe çevrim süresi tahmini için kullanılan derin öğrenme modelleri eğitiminde kullanılan veri setleri sınırlıdır. Bu sebeple modelin genelleme yeteneklerinin yetersiz kalması sorunu ortaya çıkmaktadır. Bu makale, sınırlı verinin olduğu durumda modelin zayıf genelleme ve aşırı öğrenme sorununu gidermeyi amaçlamaktadır. Bu sorun SHAP kullanılarak çözülmüştür.
+
+**3-Cycle time prediction and short-term bottleneck forecasting in an assembly line using time series machine learning with drift detection**
+Geleneksel statik öğrenme yöntemleri, üretim fabrikalarındaki dinamik koşullar söz konusu olduğunda yetersiz kalabiliyor. Modelin de dinamik hale getirilmesi için ADWIN ve LSTM kullanıldı. Amaç, kavram kayması gerçekleştiğinde modelin yeni oluşan bu duruma adapte olmasını sağlamaktadır.
