@@ -1,7 +1,7 @@
 # Kritik feature olabilecek kolonlar
 **PWORKSTATIONID**: İlgili iş istasyonu  
 **INSERTDATE**: Kayıtın oluştuğu tarih  
-**PERIOD**: Bir önceki  atılan kayıttan bu kayıta kadar geçen süre
+**PERIOD**: Bir önceki  atılan kayıttan bu kayıta kadar geçen süre  
 **STOCKID**: Üretilen stok  
 **PID**: Üretim planı id bilgisi  
 **CYCLE**: Çevrim süresi  
